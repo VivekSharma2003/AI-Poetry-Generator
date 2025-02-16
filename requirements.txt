@@ -1,8 +1,8 @@
-transformers
-datasets
-torch
 streamlit
-fastapi
-uvicorn
+transformers>=4.30.0
+torch
 spacy
 nltk
+datasets
+fastapi
+uvicorn
