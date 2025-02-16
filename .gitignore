@@ -1,0 +1,15 @@
+# Exclude virtual environments
+env/
+venv/
+
+# Exclude Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Exclude model folder if it's large (optional)
+gpt2-poetry/
+
+# Exclude system files
+.DS_Store
+Thumbs.db
